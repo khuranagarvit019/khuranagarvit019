@@ -13,7 +13,6 @@
 <a href = "khuranagarvit019@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
-<br>
 ![](https://komarev.com/ghpvc/?username=khuranagarvit019)
 
 <!--
