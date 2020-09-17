@@ -15,7 +15,7 @@
 <code><img width="40px" src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
-<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+
 
 ### Let's Connect!!
 
