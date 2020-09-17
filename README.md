@@ -25,7 +25,7 @@
 <a href="https://www.facebook.com/gar.khurana/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/facebook-new.png" />
 </a>
-<a href = "khuranagarvit019@gmail.com">
+<a href = "mailto: khuranagarvit019@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
 <br>
