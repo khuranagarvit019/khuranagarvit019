@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-![](https://komarev.com/ghpvc/?username=khuranagarvit019)
+
 ![Garvit's Github Stats](https://github-readme-stats.vercel.app/api?username=khuranagarvit019&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
 
 ### Let's Connect!!
@@ -14,7 +14,7 @@
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
 <br>
-<img align="right" src="https://rushter.com/counter.svg">
+![](https://komarev.com/ghpvc/?username=khuranagarvit019)
 
 <!--
 **khuranagarvit019/khuranagarvit019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
