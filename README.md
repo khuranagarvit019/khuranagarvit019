@@ -4,6 +4,19 @@
 
 ![](https://komarev.com/ghpvc/?username=khuranagarvit019)
 
+### I am good at:
+<code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluent/96/android-os.png" title="Android Development"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/firebase.png" title="Firebase"/></code></code>
+<code><img width="40px" src="https://img.icons8.com/ios/50/000000/mysql-logo.png" title="MySQL"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
+<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+
 ### Let's Connect!!
 
 <a href="https://www.linkedin.com/in/khuranagarvit019/">
@@ -31,4 +44,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=khuranagarvit019)
