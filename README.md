@@ -3,8 +3,9 @@
 ![Garvit's Github Stats](https://github-readme-stats.vercel.app/api?username=khuranagarvit019&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuranagarvit019&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
+
+
 ![](https://komarev.com/ghpvc/?username=khuranagarvit019)
 
 ### I am good at:
