@@ -33,7 +33,7 @@
 <a href = "mailto: khuranagarvit019@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
-<br>
+
 <!--
 **khuranagarvit019/khuranagarvit019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=khuranagarvit019)
+![](https://komarev.com/ghpvc/?username=khuranagarvit019&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
