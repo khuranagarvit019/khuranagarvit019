@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuranagarvit019&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
 
 
-![](https://komarev.com/ghpvc/?username=khuranagarvit019)
+
 
 ### I am good at:
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
@@ -19,6 +19,7 @@
 <code><img width="40px" src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/arduino.png" title="Arduino"/></code>
 
 
 ### Let's Connect!!
@@ -47,4 +48,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://komarev.com/ghpvc/?username=khuranagarvit019)
