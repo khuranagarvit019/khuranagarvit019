@@ -11,7 +11,7 @@
 ### I am good at:
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/96/android-os.png" title="Android Development"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/firebase.png" title="Firebase"/></code></code>
 <code><img width="40px" src="https://img.icons8.com/ios/50/000000/mysql-logo.png" title="MySQL"/></code>
