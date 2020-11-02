@@ -15,6 +15,7 @@
 <code><img width="40px" src="https://img.icons8.com/fluent/4x/android-os.png" title="Android Development"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/firebase.png" title="Firebase"/></code></code>
 <code><img width="40px" src="https://img.icons8.com/ios/2x/000000/mysql-logo.png" title="MySQL"/></code>
+<code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/16x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin"/></code>
