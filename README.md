@@ -34,8 +34,8 @@
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/facebook-new.png" />
 </a>
 <a href="https://twitter.com/khuranagarvit19">
-  <img align="left" width="50px" src="https://img.icons8.com/plasticine/96/000000/twitter--v1.png" />
-</a>
+  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/000000/twitter--v1.png" />
+</a>x
 <a href = "mailto: khuranagarvit019@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
