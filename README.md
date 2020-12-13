@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
 
-![Garvit's Github Stats](https://github-readme-stats.vercel.app/api?username=khuranagarvit019&show_icons=true&bg_color=44bcd8&title_color=091441&text_color=ffffff&icon_color=091441)
+![Garvit's Github Stats](https://github-readme-stats.vercel.app/api?username=khuranagarvit019&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuranagarvit019&show_icons=true&bg_color=44bcd8&title_color=091441&text_color=ffffff&icon_color=091441)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuranagarvit019&show_icons=true&theme=dracula)
 
 
 
