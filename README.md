@@ -22,7 +22,7 @@
 <code><img width="40px" src="https://img.icons8.com/fluent/2x/console.png" title="Terminal"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/linux.png" title="Linux"/></code>
 <code><img width="40px" src="https://img.icons8.com/windows/8x/323573/fedora.png" title="Fedora"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/16x/000000/arduino.png" title="Arduino"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/arduino.png" title="Arduino"/></code>
 
 
 ### Let's Connect!!
