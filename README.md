@@ -7,7 +7,7 @@
 
 
 ### I am good at:
-<code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/2x/android-os.png" title="Android Development"/></code>
