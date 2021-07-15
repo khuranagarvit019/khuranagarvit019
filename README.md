@@ -10,6 +10,7 @@
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/django.png" title="Django"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/2x/android-os.png" title="Android Development"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/firebase.png" title="Firebase"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
